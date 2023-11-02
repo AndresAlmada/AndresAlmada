@@ -5,7 +5,7 @@
   <h3 align="center">Front end trainee</h3>
 </div>
 
-- 🔭 Me encuentro estudiando en [WorkerRech - PugIT](https://www.workertechargentina.org/)
+- 🔭 Me encuentro estudiando en [WorkerTech - PugIT](https://www.workertechargentina.org/)
 
 - 👨‍💻 Acá pueden encontrar mi portafolio [https://andresalmada.github.io/portafolio/](https://andresalmada.github.io/portafolio/)
 
