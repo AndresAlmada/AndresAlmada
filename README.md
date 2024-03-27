@@ -5,7 +5,10 @@
   <h3 align="center">Front end trainee</h3>
 </div>
 
-- 🔭 Me encuentro estudiando en [WorkerTech - PugIT](https://www.workertechargentina.org/)
+- 🔭 Curso de ExcelCurso de Excel. Coderhouse 2024
+- 🔭 Introducción al Desarrollo Frontend. 90 hs, PlugIT-WorkerTech 2023
+- 🔭 Oracle Next Education Front-end. 343 hs, Alura Latam 2023
+- 🔭 Digitalers Front End Developer. 130 hs, TELECOM.
 
 - 👨‍💻 Acá pueden encontrar mi portafolio [https://andresalmada.github.io/portafolio/](https://andresalmada.github.io/portafolio/)
 
