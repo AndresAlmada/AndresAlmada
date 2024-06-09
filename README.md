@@ -5,9 +5,12 @@
   <h3 align="center">Front end trainee</h3>
 </div>
 
-- 🔭 Curso de ExcelCurso de Excel. Coderhouse 2024
-- 🔭 Introducción al Desarrollo Frontend. 90 hs, PlugIT-WorkerTech 2023
-- 🔭 Oracle Next Education Front-end. 343 hs, Alura Latam 2023
+- 🔭CARRERA DATA ANALYTICS. Coderhouse 2024:
+      * EXCEL. Culminado Top10. Trabajo final con 10. <a href="[https://www.w3schools.com/css/](https://docs.google.com/spreadsheets/d/1Wt7Wy-1wn9ONr9OP4Ii7GfSTyr2XTkvN/edit?pli=1#gid=764702100)" target="_blank" </a>
+      * TABLEAU. Culminado Top10. Trabajo final con 10.
+  
+- 🔭 Introducción al Desarrollo Frontend. 90 hs, PlugIT-WorkerTech 2023.
+- 🔭 Oracle Next Education Front-end. 343 hs, Alura Latam 2023.
 - 🔭 Digitalers Front End Developer. 130 hs, TELECOM.
 
 - 👨‍💻 Acá pueden encontrar mi portafolio [https://andresalmada.github.io/portafolio/](https://andresalmada.github.io/portafolio/)
