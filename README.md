@@ -13,10 +13,11 @@
    * Data Analytics: En curso.
   
 - 🔭 Introducción al Desarrollo Frontend. 90 hs, PlugIT-WorkerTech 2023.
+    - 👨‍💻 Acá pueden encontrar mi portafolio realizado en el curso [https://andresalmada.github.io/portafolio/](https://andresalmada.github.io/portafolio/)
+      
 - 🔭 Oracle Next Education Front-end. 343 hs, Alura Latam 2023.
+  
 - 🔭 Digitalers Front End Developer. 130 hs, TELECOM.
-
-- 👨‍💻 Acá pueden encontrar mi portafolio [https://andresalmada.github.io/portafolio/](https://andresalmada.github.io/portafolio/)
 
 - 📫 Me pueden contactar en **andres.almadaa@gmail.com**
 
