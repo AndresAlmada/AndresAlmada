@@ -6,7 +6,7 @@
 </div>
 
 - 🔭CARRERA DATA ANALYTICS. Coderhouse 2024:
-      * EXCEL. Culminado Top10. Trabajo final con 10. <a href="[https://www.w3schools.com/css/](https://docs.google.com/spreadsheets/d/1Wt7Wy-1wn9ONr9OP4Ii7GfSTyr2XTkvN/edit?pli=1#gid=764702100)" target="_blank" </a>
+      * EXCEL. Culminado Top10. Trabajo final con 10. <a href="https://docs.google.com/spreadsheets/d/1Wt7Wy-1wn9ONr9OP4Ii7GfSTyr2XTkvN/edit?pli=1#gid=764702100" target="_blank" </a>
       * TABLEAU. Culminado Top10. Trabajo final con 10.
   
 - 🔭 Introducción al Desarrollo Frontend. 90 hs, PlugIT-WorkerTech 2023.
