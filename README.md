@@ -5,10 +5,12 @@
   <h3 align="center">Front end trainee</h3>
 </div>
 
-- 🔭CARRERA DATA ANALYTICS. Coderhouse 2024:
-      * EXCEL. Culminado Top10. Trabajo final con 10, link: https://docs.google.com/spreadsheets/d/1Wt7Wy-1wn9ONr9OP4Ii7GfSTyr2XTkvN/edit?pli=1#gid=764702100
+- 🔭<b>CARRERA DATA ANALYTICS. Coderhouse 2024:</b>
+   * EXCEL. Culminado Top10. Trabajo final con 10, link: https://docs.google.com/spreadsheets/d/1Wt7Wy-1wn9ONr9OP4Ii7GfSTyr2XTkvN/edit?pli=1#gid=764702100
 
-      * TABLEAU. Culminado Top10. Trabajo final con 10, link https://public.tableau.com/app/profile/andres.almada/viz/EntregaFinal_ALMADA/INICIO 
+   * TABLEAU. Culminado Top10. Trabajo final con 10, link https://public.tableau.com/app/profile/andres.almada/viz/EntregaFinal_ALMADA/INICIO
+ 
+   * Data Analytics: En curso.
   
 - 🔭 Introducción al Desarrollo Frontend. 90 hs, PlugIT-WorkerTech 2023.
 - 🔭 Oracle Next Education Front-end. 343 hs, Alura Latam 2023.
